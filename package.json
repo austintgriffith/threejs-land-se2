@@ -55,5 +55,9 @@
   "packageManager": "yarn@3.2.3",
   "engines": {
     "node": ">=20.18.3"
+  },
+  "dependencies": {
+    "@types/three": "^0.174.0",
+    "three": "^0.174.0"
   }
 }
